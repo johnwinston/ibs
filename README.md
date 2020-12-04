@@ -6,7 +6,7 @@ Python program responsible for the discovery of xq5_yb2bi220c46m8zy5g808qiqsoje8
 All out of partials to extend? Tired of the same blank search? Try ibs! ibs is a Golly script used to find seeds for ikpx2 searches.
 
 1. Get ikpx2
-2. Get Golly
+2. Get Golly (< 4.0)
 3. Configure the script's options**
 4. Open Golly
 5. Select a bounding box (10x10 is what I use)
